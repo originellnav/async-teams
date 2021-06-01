@@ -3,9 +3,8 @@ title: Home
 sections:
   - type: hero_section
     title: Your guide to forward-thinking companies
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      Discover modern workplaces with values that are most important to you.
     actions:
       - label: Try Free
         url: /pricing

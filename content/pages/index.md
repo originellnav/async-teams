@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Your Guide To Forward-thinking companies
+    title: Your guide to forward-thinking companies
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl

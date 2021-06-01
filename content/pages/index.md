@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Your guide to forward-thinking companies
     content: |
-      Discover modern workplaces that share your values.
+      Discover modern teams that share your values.
     actions: []
     image_alt: Hero section placeholder image
     media_position: left

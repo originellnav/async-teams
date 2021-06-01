@@ -6,9 +6,6 @@ sections:
     content: |
       Discover modern workplaces that share your values.
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
       - label: Learn More
         url: /features
         style: secondary

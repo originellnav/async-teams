@@ -5,10 +5,7 @@ sections:
     title: Your guide to forward-thinking companies
     content: |
       Discover modern workplaces that share your values.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
+    actions: []
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty

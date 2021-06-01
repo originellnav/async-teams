@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Your guide to forward-thinking companies
     content: |
-      Discover modern workplaces with values that are most important to you.
+      Discover modern workplaces that share your values.
     actions:
       - label: Try Free
         url: /pricing
